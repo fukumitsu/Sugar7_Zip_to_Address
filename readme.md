@@ -4,6 +4,7 @@ Zip Code to Address
 Sugar 7.5 add-on.
 - Auto complete address after you input postal code field. 
 
+![Image](/ziptoaddress.png)
 
 Installation & Setup
 ============
